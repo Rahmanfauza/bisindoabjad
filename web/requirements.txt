@@ -2,5 +2,6 @@ streamlit
 opencv-python-headless
 numpy
 torch
-mediapipe
+mediapipe==0.10.14
+protobuf<4.0.0
 Pillow
