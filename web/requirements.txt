@@ -2,4 +2,5 @@ streamlit
 numpy
 torch
 mediapipe
+protobuf<4.0.0
 Pillow
